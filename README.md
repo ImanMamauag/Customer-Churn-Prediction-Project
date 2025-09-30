@@ -9,7 +9,7 @@ Business Question:
 +	Why do some subscribers leave while others stay—and how can we act on it??
 
 ## Objectives
-1. **Analyze customer behavior and churn trends**
+**1. Analyze customer behavior and churn trends**
 + Identify customer segments with the highest churn rates.
 +	Estimate revenue loss from churn and highlight which groups contribute most to it.
 + Uncover overall behavioral patterns linked to customer retention and attrition.
