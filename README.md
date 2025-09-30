@@ -26,6 +26,15 @@ Business Question:
 +	Recommend targeted actions (e.g., engagement campaigns, pricing strategies, support improvements) based on findings.
 
 
+## III. Executive Summary
+This project was conducted to address a critical business question: Why do some subscribers leave while others stay—and how can we act on it? By analyzing customer churn behavior, we identified high-risk segments, quantified the revenue impact, uncovered the key drivers of churn, and built a predictive model to flag customers at risk.
+<br>
+Key findings show that churn is concentrated among new/early customers (0-20 months) and Basic-plan users, resulting in an estimated revenue loss of approximately $600k.
+<br>
+The analysis also revealed the top behavioral factors driving churn such as MonthlyCharges, SupportsTicketPerMonth, WatchlistSize, and UserRating, enabling us to focus retention strategies more effectively.
+A predictive churn model was developed with 82% accuracy, 56% precision and 11% recall, providing the business with a tool to identify at-risk customers to efficiently. 
+<br>
+Together, these insights and tools allow for targeted interventions to reduce churn, protect revenue, and improve customer lifetime value.
 
 
 
