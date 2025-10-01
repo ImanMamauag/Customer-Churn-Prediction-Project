@@ -48,6 +48,7 @@ Key findings show that **churn is concentrated** among **new/early customers** (
 ### Segmentation & Analysis
 **Churn rates by Subscription Type** - Premium user (16% churn rate) are less likely to churn than Basic (20%) and Standard users (18%)
 <br>
+<br>
 <img src="./dataviz/churnrate_substype.PNG">
 <br>
 <img src="./dataviz/churnrate_substype_chart.png">
