@@ -57,7 +57,7 @@ Key findings show that **churn is concentrated** among **new/early customers** (
 + **New Subscribers are the most vulnerable:**
   + The churn rate is highest among New Subscribers (33%), followed by those with less than 1 year (30%).
   + This indicates that the first year is the most critical period for customer retention.
-<br>
+
 + **Churn declines steadily with tenure:**
   + 1–3 Years: 27%
   + 3–5 Years: 20%
@@ -69,8 +69,7 @@ Key findings show that **churn is concentrated** among **new/early customers** (
 <br>
 <img src="./dataviz/churnrate_tenure_chart.png">
 
-**Churn Revenue Loss by Subscription Type** - 
-<br>
+**Churn Revenue Loss by Subscription Type** 
 <img src="./dataviz/churn_revenueloss_substype.png">
 
 ``` print(df) ```
