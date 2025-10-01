@@ -46,19 +46,27 @@ Key findings show that **churn is concentrated** among **new/early customers** (
 <img src="./dataviz/churn_corrheatmap.png">
 
 ### Segmentation & Analysis
-•	**Churn rates by Subscription Type**
+•	**Churn rates by Subscription Type** - Premium user (16% churn rate) are less likely to churn than Basic (20%) and Standard users (18%)
 <br>
 <img src="./dataviz/churnrate_substype.PNG">
-
-•	**Churn rates by Subscription Type**
 <br>
 <img src="./dataviz/churnrate_substype_chart.png">
 
-•	**Churn Rates by Tenure Segment**
+•	**Churn Rates by Tenure Segment** - New Subscriber are the most vulnerable, churn declines steadily with tenure and rentention improves with customer longevity.
+New Subscribers are the most vulnerable:
++ The churn rate is highest among New Subscribers (33%), followed by those with less than 1 year (30%).
++ This indicates that the first year is the most critical period for customer retention.
+Churn declines steadily with tenure
++ 1–3 Years: 27%
++ 3–5 Years: 20%
++ 5+ Years: only 12%
++ Customers who stay beyond 3 years are much more loyal, and the churn rate drops by nearly two-thirds compared to new subscribers
+Retention improves with customer longevity
++ The data clearly demonstrates a loyalty effect: the longer a customer remains subscribed, the less likely they are to leave.
 <br>
 <img src="./dataviz/churnrate_tenure_chart.png">
 
-•	**Churn Revenue Loss by Subscription Type**
+•	**Churn Revenue Loss by Subscription Type** - 
 <br>
 <img src="./dataviz/churn_revenueloss_substype.png">
 
