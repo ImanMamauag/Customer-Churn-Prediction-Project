@@ -1,6 +1,6 @@
 # Customer-Churn-Prediction-Project
 
-<img src="./odds_ratios.png">
+<img src="./dataviz/odds_ratios.png">
 
 ## Project Background
 What is customer churn and why it matters?
