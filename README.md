@@ -47,6 +47,7 @@ Key findings show that **churn is concentrated** among **new/early customers** (
 
 ### Segmentation & Analysis
 •	**Churn rates by Subscription Type**
+<br>
 <img src="./churnrate_substype.PNG">
 
 ``` print(df) ```
