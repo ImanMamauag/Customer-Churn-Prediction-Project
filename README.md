@@ -34,11 +34,16 @@ Key findings show that **churn is concentrated** among **new/early customers** (
 ## IV. Insights Deep-Dive
 ### Exploratory Data Analysis (EDA)
 •	**Churn Count by Subscription** - Premium user (16% churn rate) are less likely to churn than Basic (20%) and Standard users (18%) (See bar chart). 
+<img src="./churn_substype.png">
 
 •	**Monthly Charges vs Churn** - Churned customers generally pay slightly higher ($13.4 avg. vs. non-churned = $12.3 avg.) monthly charges (See box plot). 
-•	**Account Age Distribution by Churn** - Higher churn in early months (0–20 months)
-•	**Correlation Heatmap (Numeric Features)** - The churn correlations are weak (absolute values < 0.20), meaning churn is multi-factorial rather than driven by one numeric feature alone. No strong single predictor of churn.
+<img src="./churn_monthlycharges.png">
 
+•	**Account Age Distribution by Churn** - Higher churn in early months (0–20 months).
+<img src="./churn_accage_distri.png">
+
+•	**Correlation Heatmap (Numeric Features)** - The churn correlations are weak (absolute values < 0.20), meaning churn is multi-factorial rather than driven by one numeric feature alone. No strong single predictor of churn.
+<img src="./churn_corrheatmap.png">
 
 
 ``` print(df) ```
