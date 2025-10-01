@@ -63,7 +63,7 @@ Key findings show that **churn is concentrated** among **new/early customers** (
   + 3–5 Years: 20%
   + 5+ Years: only 12%
   + Customers who stay beyond 3 years are much more loyal, and the churn rate drops by nearly two-thirds compared to new subscribers.
-<br>
+
 + **Retention improves with customer longevity:**
   + The data clearly demonstrates a loyalty effect: the longer a customer remains subscribed, the less likely they are to leave.
 <br>
