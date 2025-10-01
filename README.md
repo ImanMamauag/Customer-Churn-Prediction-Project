@@ -50,4 +50,16 @@ Key findings show that **churn is concentrated** among **new/early customers** (
 <br>
 <img src="./dataviz/churnrate_substype.PNG">
 
+•	**Churn rates by Subscription Type**
+<br>
+<img src="./dataviz/churnrate_substype_chart.png">
+
+•	**Churn Rates by Tenure Segment**
+<br>
+<img src="./dataviz/churnrate_tenure_chart.png">
+
+•	**Churn Revenue Loss by Subscription Type**
+<br>
+<img src="./dataviz/churn_revenueloss_substype.png">
+
 ``` print(df) ```
