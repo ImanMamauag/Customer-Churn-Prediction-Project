@@ -130,7 +130,7 @@ Key findings show that **churn is concentrated** among **new/early customers** (
 + ```ParentalControl``` & ```SubtitlesEnabled``` (**OR ≈ 0.95–0.98**) – Slightly reduce churn, probably tied to **better personalization features**.
 
 
-## V. Recommendations
+## VI. Recommendations
 
 The analysis shows that **customer churn is concentrated among short-tenure**, **Basic-plan**, and **low-engagement customers**, while higher-value **Premium** and **Standard customers** **contribute most to revenue loss when they leave**. **Key churn drivers** include **limited engagement** (**low watch time**, **small watchlists**), **poor onboarding experience**, **dissatisfaction reflected in support tickets**, and **weaker perceived value in lower-tier subscriptions**.
 <br>
@@ -145,6 +145,6 @@ The analysis shows that **customer churn is concentrated among short-tenure**, *
 **Bottom Line**: Reducing churn requires a **dual approach**: **retain more Basic customers through engagement and onboarding**,
 while **protecting revenue by preventing Premium churn**. A data-driven retention strategy can lower revenue leakage, improve loyalty, and drive sustainable growth.
 
-## VI. Dataset and Technical Information
+## VII. Dataset and Technical Information
 This dataset contains **anonymized information** about customer subscriptions and their interaction with the service. The data includes various features such as subscription type, payment method, viewing preferences, customer support interactions, and other relevant attributes.
 
