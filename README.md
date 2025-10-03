@@ -142,7 +142,7 @@ The analysis shows that **customer churn is concentrated among short-tenure**, *
 +	**Differentiate subscription value** – **promote Premium benefits through free trials** or **feature previews** to reduce Basic-plan churn.
 +	**Leverage churn prediction models** – **proactively flag** and **intervene with at-risk customers** using **targeted retention offers**.
 
-**Bottom Line**: Reducing churn requires a dual approach: **retain more Basic customers through engagement and onboarding**,
+**Bottom Line**: Reducing churn requires a **dual approach**: **retain more Basic customers through engagement and onboarding**,
 while **protecting revenue by preventing Premium churn**. A data-driven retention strategy can lower revenue leakage, improve loyalty, and drive sustainable growth.
 
 ## VI. Dataset and Technical Information
