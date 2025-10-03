@@ -106,7 +106,11 @@ Key findings show that **churn is concentrated** among **new/early customers** (
   + Print test **accuracy score**.
     
 + **Evaluation of the model:**
-  + Accuracy Testing
-  + Precision
-  + Recall
+  + Accuracy Testing = **82%**
+  + Precision = **55%**
+  + Recall = **11%**
+ 
++ **Explore and plot the coefficients of the logistic regression to understand what is driving churn to go up or down:**
+  + Churn Drivers - Logistic Regression (Odds Ratios) [PLOT](odds_ratios.png)
+    
 
