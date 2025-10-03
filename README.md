@@ -105,7 +105,7 @@ Key findings show that **churn is concentrated** among **new/early customers** (
   + Predict **churn values** on test data.
   + Print test **accuracy score**.
     
-+ **Evaluation of the model:**
++ **Evaluation of the Model:**
   + Accuracy Testing = **82%**
   + Precision = **55%**
   + Recall = **11%**
