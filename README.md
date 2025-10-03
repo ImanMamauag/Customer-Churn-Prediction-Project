@@ -132,17 +132,18 @@ Key findings show that **churn is concentrated** among **new/early customers** (
 
 ## V. Recommendations
 
-The analysis shows that customer churn is concentrated among short-tenure, Basic-plan, and low-engagement customers, while higher-value Premium and Standard customers contribute most to revenue loss when they leave. Key churn drivers include limited engagement (low watch time, small watchlists), poor onboarding experience, dissatisfaction reflected in support tickets, and weaker perceived value in lower-tier subscriptions.
-To address this, the company should:
+The analysis shows that **customer churn is concentrated among short-tenure**, **Basic-plan**, and **low-engagement customers**, while higher-value **Premium** and **Standard customers** **contribute most to revenue loss when they leave**. **Key churn drivers** include **limited engagement** (**low watch time**, **small watchlists**), **poor onboarding experience**, **dissatisfaction reflected in support tickets**, and **weaker perceived value in lower-tier subscriptions**.
+<br>
+**To address this, the company should:**
 
-•	Strengthen onboarding for new users – provide guided walkthroughs, early incentives, and personalized recommendations within the first 6–12 months.
-•	Boost engagement – expand watchlist suggestions, highlight trending content, and offer rewards for frequent viewing or downloads.
-•	Reduce support friction – analyze ticket patterns, fix recurring issues, and enhance self-service options to improve satisfaction.
-•	Differentiate subscription value – promote Premium benefits through free trials or feature previews to reduce Basic-plan churn.
-•	Leverage churn prediction models – proactively flag and intervene with at-risk customers using targeted retention offers.
++	**Strengthen onboarding for new users** – provide guided walkthroughs, early incentives, and personalized recommendations within the first 6–12 months.
++	**Boost engagement** – expand watchlist suggestions, highlight trending content, and offer rewards for frequent viewing or downloads.
++	**Reduce support friction** – analyze ticket patterns, fix recurring issues, and enhance self-service options to improve satisfaction.
++	**Differentiate subscription value** – promote Premium benefits through free trials or feature previews to reduce Basic-plan churn.
++	**Leverage churn prediction models** – proactively flag and intervene with at-risk customers using targeted retention offers.
 
-Bottom Line: Reducing churn requires a dual approach: retain more Basic customers through engagement and onboarding,
-while protecting revenue by preventing Premium churn. A data-driven retention strategy can lower revenue leakage, improve loyalty, and drive sustainable growth.
+**Bottom Line**: Reducing churn requires a dual approach: **retain more Basic customers through engagement and onboarding**,
+while **protecting revenue by preventing Premium churn**. A data-driven retention strategy can lower revenue leakage, improve loyalty, and drive sustainable growth.
 
 ## VI. Dataset and Technical Information
 This dataset contains anonymized information about customer subscriptions and their interaction with the service. The data includes various features such as subscription type, payment method, viewing preferences, customer support interactions, and other relevant attributes.
