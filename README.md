@@ -111,7 +111,21 @@ Key findings show that **churn is concentrated** among **new/early customers** (
   + Recall = **11%**
  
 + **Model Interpretation and Explainability:**
-  + Explore and plot the coefficients of the logistic regression to understand what is driving churn to go up or down- 
-    + Churn Drivers - Logistic Regression (Odds Ratios) [PLOT](dataviz/odds_ratios.png)
-    
+  + Explore and plot the coefficients of the logistic regression to understand what is driving churn to go up or down: 
+
+<img src="./dataviz/odds_ratios.png">
+
+✅ **Positive drivers of churn (increase churn risk)** 
+
++ ```MonthlyCharges``` (**OR ≈ 1.3**) – Customers paying **higher monthly fees** are more likely to churn. Possibly due to price sensitivity.
++ Support Tickets Per Month (OR ≈ 1.25) – Frequent issues reported = dissatisfaction → higher churn.
++ Watchlist Size & User Rating (OR ≈ 1.05) – Slightly increases churn, suggesting that even engaged users may leave if other factors (price, experience) frustrate them.
+
+❌ **Negative drivers of churn (reduce churn risk)**
+
++ Account Age (OR ≈ 0.6) – Longer-tenured customers are less likely to churn (loyalty effect).
++ Average Viewing Duration, Content Downloads, Viewing Hours (OR ≈ 0.65–0.7) – More engaged users are less likely to churn. Engagement strongly protects retention.
++ Subscription Type: Premium (OR ≈ 0.85) – Premium users are less likely to leave compared to Basic plan holders (perceived higher value).
++ Payment Method: Credit Card (OR ≈ 0.9) – Auto-renewal makes churn less likely.
++ Parental Control & Subtitles Enabled (OR ≈ 0.95–0.98) – Slightly reduce churn, probably tied to better personalization features.    
 
