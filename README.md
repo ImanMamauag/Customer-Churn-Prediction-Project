@@ -87,4 +87,18 @@ Key findings show that **churn is concentrated** among **new/early customers** (
   + At **$174,782**, the Premium segment shows lower revenue loss compared to Basic and Standard.
   + This could mean Premium customers are **more loyal**, or that higher-paying customers churn less frequently.
 
+## V. Prediction Model
++ **Preparation for Modeling:**
+  + Separated Customer ID and Churn columns.
+  + Identified and made a list for Categorical and Numerical Variables.
+  + Transformed Categorical Variables using One-hot Encoding.
+  + Transformed and Fit Numerical Variable using Standard Scaler.
+  + Merged ID, Churn, Categorical and Numerical Variables
+  + Export to a new csv file.
+
++ **ML Modeling (Logistic Regression):**
++ **Evaluation of the model:**
+  + Accuracy Testing
+  + Precision
+  + Recall
 
