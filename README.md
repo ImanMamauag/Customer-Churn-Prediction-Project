@@ -34,16 +34,16 @@ Key findings show that **churn is concentrated** among **new/early customers** (
 
 ## IV. Insights Deep-Dive
 ### Exploratory Data Analysis (EDA)
-•	**Churn Count by Subscription** - Premium user(13,044) are less likely to churn than Basic(15,804) and Standard users(14,997). 
+•	**Churn Count by Subscription** - Premium user(**13,044**) are less likely to churn than Basic(**15,804**) and Standard users(**14,997**). 
 <img src="./dataviz/churn_substype.png">
 
-•	**Monthly Charges vs Churn** - Churned customers generally pay slightly higher ($13.4 avg. vs. non-churned = $12.3 avg.) monthly charges. 
+•	**Monthly Charges vs Churn** - Churned customers generally pay slightly higher (**$13.4 avg.** vs. **non-churned = $12.3 avg.**) monthly charges. 
 <img src="./dataviz/churn_monthlycharges.png">
 
-•	**Account Age Distribution by Churn** - Higher churn in early months (0–20 months).
+•	**Account Age Distribution by Churn** - Higher churn in early months (**0–20 months**).
 <img src="./dataviz/churn_accage_distri.png">
 
-•	**Correlation Heatmap (Numeric Features)** - The churn correlations are weak (absolute values < 0.20), meaning churn is multi-factorial rather than driven by one numeric feature alone. No strong single predictor of churn.
+•	**Correlation Heatmap (Numeric Features)** - The churn **correlations are weak** (**absolute values < 0.20**), meaning churn is **multi-factorial** rather than driven by one numeric feature alone. **No strong single predictor of churn**.
 <img src="./dataviz/churn_corrheatmap.png">
 
 ### Segmentation & Analysis
@@ -52,24 +52,24 @@ Key findings show that **churn is concentrated** among **new/early customers** (
 <br>
 <img src="./dataviz/churnrate_substype.PNG">
 
-**Churn rates by Subscription Type** - Premium user (16% churn rate) are less likely to churn than Basic (20%) and Standard users (18%)
+**Churn rates by Subscription Type** - Premium user (**16%** churn rate) are less likely to churn than Basic (**20%**) and Standard users (**18%**)
 <br>
 <img src="./dataviz/churnrate_tenure_chart.png">
 
-**Churn Rates by Tenure Segment** - New Subscriber are the most vulnerable, churn declines steadily with tenure and rentention improves with customer longevity.
+**Churn Rates by Tenure Segment** - New subscriber are the **most vulnerable**, churn declines steadily with tenure and **rentention improves with customer longevity**.
 
 + **New Subscribers are the most vulnerable:**
-  + The churn rate is highest among New Subscribers (33%), followed by those with less than 1 year (30%).
-  + This indicates that the first year is the most critical period for customer retention.
+  + The **churn rate** is **highest** among **new subscribers** (**33%**), followed by those with **less than 1 year** (**30%**).
+  + This indicates that **the first year is the most critical period** for customer retention.
 
 + **Churn declines steadily with tenure:**
-  + 1–3 Years: 27%
-  + 3–5 Years: 20%
-  + 5+ Years: only 12%
-  + Customers who stay beyond 3 years are much more loyal, and the churn rate drops by nearly two-thirds compared to new subscribers.
+  + **1–3** Years: **27%**
+  + **3–5** Years: **20%**
+  + **5+** Years: only **12%**
+  + Customers who stay **beyond 3 years are much more loyal**, and the **churn rate drops by nearly two-thirds** compared to new subscribers.
 
 + **Retention improves with customer longevity:**
-  + The data clearly demonstrates a loyalty effect: the longer a customer remains subscribed, the less likely they are to leave.
+  + The data clearly demonstrates a **loyalty effect**: the longer a customer remains subscribed, the less likely they are to leave.
 <br>
 
 <img src="./dataviz/churn_revenueloss_substype.png">
