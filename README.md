@@ -91,7 +91,7 @@ Key findings show that **churn is concentrated** among **new/early customers** (
 + **Preparation for Modeling:**
   + Separated ```CustomerID``` and ```Churn``` columns and used the variable names ```custid``` and ```target``` respectively.
   + Identified and made a list for **Categorical** and **Numerical** variables.
-  + Transformed Categorical variables using **One-hot Encoding**.
+  + Transformed Categorical variables using **One-hot encoding**.
   + Transformed and fit Numerical variables using **Standard Scaler**.
   + Merged ```custid```, ```target```, **Categorical** and **Numerical** variables into ```df_merged``` DataFrame.
   + Export to a new csv file.
@@ -99,8 +99,8 @@ Key findings show that **churn is concentrated** among **new/early customers** (
 + **ML Modeling (Logistic Regression):**
   + Import **df_merged.csv** to dataFrame ```subs1``` then split data into **train** and **test**.
   + Store column names from ```subs1``` excluding ```target``` variable and ```custid```.
-  + Extract **training features*** and **target**.
-  + Extract **testing features*** and **target**.
+  + Extract **training features** and **target**.
+  + Extract **testing features** and **target**.
   + Import the **Logistic Regression classifier**, **initialize**, and **fit** the model. 
   + Predict **churn values** on test data.
   + Print test **accuracy score**.
