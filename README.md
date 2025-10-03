@@ -111,6 +111,6 @@ Key findings show that **churn is concentrated** among **new/early customers** (
   + Recall = **11%**
  
 + **Explore and plot the coefficients of the logistic regression to understand what is driving churn to go up or down:**
-  + Churn Drivers - Logistic Regression (Odds Ratios) [PLOT](odds_ratios.png)
+  + Churn Drivers - Logistic Regression (Odds Ratios) [PLOT](dataviz/odds_ratios.png)
     
 
