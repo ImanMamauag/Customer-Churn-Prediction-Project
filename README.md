@@ -50,6 +50,7 @@ Key findings show that **churn is concentrated** among **new/early customers** (
 <img src="./dataviz/churnrate_substype_chart.png">
 <br>
 <img src="./dataviz/churnrate_substype.PNG">
+
 **Churn rates by Subscription Type** - Premium user (16% churn rate) are less likely to churn than Basic (20%) and Standard users (18%)
 <br>
 <img src="./dataviz/churnrate_tenure_chart.png">
@@ -70,8 +71,19 @@ Key findings show that **churn is concentrated** among **new/early customers** (
   + The data clearly demonstrates a loyalty effect: the longer a customer remains subscribed, the less likely they are to leave.
 <br>
 
-
-**Churn Revenue Loss by Subscription Type** 
 <img src="./dataviz/churn_revenueloss_substype.png">
+
+**Churn Revenue Loss by Subscription Type** - Basic Plan has the highest revenue loss, Standard Plan is close behind and Premium Plan has the lowest churn revenue loss.
++ **Basic Plan has the highest revenue loss:**
+  + About **$211,573** in lost revenue comes from churned Basic-plan customers.
+  + This suggests that although the Basic plan may have lower pricing per customer, the **high churn volume** makes it the largest contributor to revenue leakage.
+    
++ **Standard Plan is close behind:**
+  + Standard plan customers account for **$201,347** in churn revenue loss.
+  + This indicates that mid-tier customers also churn in significant numbers, making them a crucial group to retain.
+
++ **Premium Plan has the lowest churn revenue loss:**
+  + At **$174,782**, the Premium segment shows lower revenue loss compared to Basic and Standard.
+  + This could mean Premium customers are **more loyal**, or that higher-paying customers churn less frequently.
 
 ``` print(df) ```
