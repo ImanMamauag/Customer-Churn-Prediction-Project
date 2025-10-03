@@ -123,9 +123,11 @@ Key findings show that **churn is concentrated** among **new/early customers** (
 
 ❌ **Negative drivers of churn (reduce churn risk)**
 
-+ ```AccountAge`` (**OR ≈ 0.6**) – **Longer-tenured customers** are less likely to churn (**loyalty effect**).
++ ```AccountAge``` (**OR ≈ 0.6**) – **Longer-tenured customers** are less likely to churn (**loyalty effect**).
 + ```AverageViewingDuration```, ```ContentDownloadsPerMonth```, ```ViewingHoursPerWeek``` (**OR ≈ 0.65–0.7**) – **More engaged users** are less likely to churn. Engagement strongly protects retention.
 + ```SubscriptionType```: **Premium** (**OR ≈ 0.85**) – **Premium users are less likely to leave** compared to **Basic plan** holders (**perceived higher value**).
 + ```PaymentMethod```: **Credit Card** (**OR ≈ 0.9**) – **Auto-renewal** makes churn less likely.
-+ ```ParentalControl``` & ```SubtitlesEnabled``` (**OR ≈ 0.95–0.98**) – Slightly reduce churn, probably tied to **better personalization features**.    
++ ```ParentalControl``` & ```SubtitlesEnabled``` (**OR ≈ 0.95–0.98**) – Slightly reduce churn, probably tied to **better personalization features**.
+
+
 
