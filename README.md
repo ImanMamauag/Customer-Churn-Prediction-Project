@@ -5,7 +5,7 @@
 ## Project Background
 What is customer churn and why it matters?
 + Churn is the rate at which customers stop using a service, and it matters because high churn directly reduces revenue, increases acquisition costs, and signals issues with customer satisfaction and loyalty.
-Business Question:
+### Business Question:
 +	Why do some subscribers leave while others stay—and how can we act on it??
 
 ## Objectives
@@ -46,13 +46,13 @@ Key findings show that **churn is concentrated** among **new/early customers** (
 <img src="./dataviz/churn_corrheatmap.png">
 
 ### Segmentation & Analysis
-**Churn rates by Subscription Type** - Premium user (16% churn rate) are less likely to churn than Basic (20%) and Standard users (18%)
-<br>
-<br>
-<img src="./dataviz/churnrate_substype.PNG">
 <br>
 <img src="./dataviz/churnrate_substype_chart.png">
-
+<br>
+<img src="./dataviz/churnrate_substype.PNG">
+**Churn rates by Subscription Type** - Premium user (16% churn rate) are less likely to churn than Basic (20%) and Standard users (18%)
+<br>
+<img src="./dataviz/churnrate_tenure_chart.png">
 **Churn Rates by Tenure Segment** - New Subscriber are the most vulnerable, churn declines steadily with tenure and rentention improves with customer longevity.
 <br>
 + **New Subscribers are the most vulnerable:**
@@ -68,7 +68,7 @@ Key findings show that **churn is concentrated** among **new/early customers** (
 + **Retention improves with customer longevity:**
   + The data clearly demonstrates a loyalty effect: the longer a customer remains subscribed, the less likely they are to leave.
 <br>
-<img src="./dataviz/churnrate_tenure_chart.png">
+
 
 **Churn Revenue Loss by Subscription Type** 
 <img src="./dataviz/churn_revenueloss_substype.png">
