@@ -55,6 +55,7 @@ Key findings show that **churn is concentrated** among **new/early customers** (
 <img src="./dataviz/churnrate_tenure_chart.png">
 **Churn Rates by Tenure Segment** - New Subscriber are the most vulnerable, churn declines steadily with tenure and rentention improves with customer longevity.
 <br>
+
 + **New Subscribers are the most vulnerable:**
   + The churn rate is highest among New Subscribers (33%), followed by those with less than 1 year (30%).
   + This indicates that the first year is the most critical period for customer retention.
