@@ -53,8 +53,8 @@ Key findings show that **churn is concentrated** among **new/early customers** (
 **Churn rates by Subscription Type** - Premium user (16% churn rate) are less likely to churn than Basic (20%) and Standard users (18%)
 <br>
 <img src="./dataviz/churnrate_tenure_chart.png">
+
 **Churn Rates by Tenure Segment** - New Subscriber are the most vulnerable, churn declines steadily with tenure and rentention improves with customer longevity.
-<br>
 
 + **New Subscribers are the most vulnerable:**
   + The churn rate is highest among New Subscribers (33%), followed by those with less than 1 year (30%).
