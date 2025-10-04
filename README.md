@@ -148,7 +148,7 @@ while **protecting revenue by preventing Premium churn**. A data-driven retentio
 ## VII. Dataset and Technical Information
 The [Predictive Analytics for Customer Churn dataset](https://www.kaggle.com/datasets/safrin03/predictive-analytics-for-customer-churn-dataset/data) by **Safrin S** contains over **250,000 anonymized records of customer subscriptions** and **service interactions**. It includes diverse features such as **subscription type**, **payment method**, **viewing patterns**, **device usage**, **support ticket activity**, and **other variables suitable for preprocessing, exploratory analysis, and predictive modeling**.
 
-**Additional note**: To simulate real-world data quality issues, I used generative AI to inject ~3% duplicate rows, introduce ~1% missing values at random, and insert ~2% inconsistent text entries in fields such as GenrePreference (misspellings, extra white spaces, trailing punctuation) and Gender, providing an opportunity to apply and demonstrate data preprocessing techniques.
+**Note**: To simulate real-world data quality issues, I used generative AI to inject ~3% duplicate rows, introduce ~1% missing values at random, and insert ~2% inconsistent text entries in fields such as GenrePreference (misspellings, extra white spaces, trailing punctuation) and Gender, providing an opportunity to apply and demonstrate data preprocessing techniques.
 
 ### Dataset Schema
 
