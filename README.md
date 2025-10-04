@@ -148,8 +148,28 @@ while **protecting revenue by preventing Premium churn**. A data-driven retentio
 ## VII. Dataset and Technical Information
 This [dataset](https://www.kaggle.com/datasets/safrin03/predictive-analytics-for-customer-churn-dataset/data) contains **anonymized information** about customer subscriptions and their interaction with the service. The data includes various features such as subscription type, payment method, viewing preferences, customer support interactions, and other relevant attributes.
 
+### Dataset Schema
+
 | Columns  | Description | 
 | :------- | :------: |
 | CustomerID | Unique customer identifier  |
-| SubscriptionType | Subscription plan (Basic, Standard, Premium)  |
-
+| SubscriptionType | Subscription plan (Basic, Standard, Premium) |
+| PaymentMethod | Payment method used (Credit Card, Bank transfer, etc.) |
+| PaperlessBilling | Whether paperless billing is enabled (Yes/No) |
+| ContentType | Content accessed (Movies, TV Shows) |
+| MultiDeviceAccess | Multi-device access (Yes/No) |
+| DeviceRegistered | Device type (Computer, Mobile, Tablet, TV, etc.) |
+| GenrePreference | Preferred content genre (Action, Comedy, Drama, etc.) |
+| Gender | Gender of customer (Male/Female) |
+| ParentalControl | Whether parental controls are enabled (Yes/No) |
+| SubtitlesEnabled | Whether subtitles are enabled (Yes/No) |
+| AccountAge | Age of account in months |
+| MonthlyCharges | Monthly subscription charges |
+| TotalCharges | Total amount billed  |
+| ViewingHoursPerWeek | Viewing hours per week |
+| SupportTicketsPerMonth | Number of support tickets per month |
+| AverageViewingDuration | Avg. viewing session length  |
+| ContentDownloadsPerMonth | Number of downloads per month |
+| UserRating | Customer rating (1–5)  |
+| WatchlistSize | Number of items in watchlist |
+| Churn | Whether the customer churned (Yes/No) |
