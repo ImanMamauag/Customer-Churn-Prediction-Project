@@ -146,7 +146,7 @@ The analysis shows that **customer churn is concentrated among short-tenure**, *
 while **protecting revenue by preventing Premium churn**. A data-driven retention strategy can lower revenue leakage, improve loyalty, and drive sustainable growth.
 
 ## VII. Dataset and Technical Information
-This [dataset](https://www.kaggle.com/datasets/safrin03/predictive-analytics-for-customer-churn-dataset/data) contains **anonymized information** about customer subscriptions and their interaction with the service. The data includes various features such as subscription type, payment method, viewing preferences, customer support interactions, and other relevant attributes.
+Predictive Analytics for Customer Churn: [Dataset](https://www.kaggle.com/datasets/safrin03/predictive-analytics-for-customer-churn-dataset/data) by Safrin S contains **anonymized information** about customer subscriptions and their interaction with the service. The data includes various features such as subscription type, payment method, viewing preferences, customer support interactions, and other relevant attributes.
 
 ### Dataset Schema
 
