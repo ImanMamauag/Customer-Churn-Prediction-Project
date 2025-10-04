@@ -174,4 +174,4 @@ while **protecting revenue by preventing Premium churn**. A data-driven retentio
 | WatchlistSize | Number of items in watchlist |
 | Churn | Whether the customer churned (Yes/No) |
 
-Access full project [here](CompleteProject.ipynb)
+### Access full project [here](CompleteProject.ipynb)
