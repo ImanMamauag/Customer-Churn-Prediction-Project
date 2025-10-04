@@ -174,5 +174,5 @@ This [Predictive Analytics for Customer Churn: Dataset](https://www.kaggle.com/d
 | WatchlistSize | Number of items in watchlist |
 | Churn | Whether the customer churned (Yes/No) |
 
-In this project, I applied **Numpy** and **Pandas** for **data cleaning**, **transformation**, and **feature preparation**, implemented a **logistic regression model** in **Scikit-Learn** to **predict churn risk**, and **generated data visualizations** using **Matplotlib**.
+In this project, I applied **Numpy** and **Pandas** for **data cleaning**, **transformation**, and **feature preparation**, **implemented a logistic regression model** in **Scikit-Learn** to **predict churn risk**, and **generated data visualizations** using **Matplotlib**.
 ### Access full project [here](CompleteProject.ipynb)
