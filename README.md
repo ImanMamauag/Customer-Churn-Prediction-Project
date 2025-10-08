@@ -177,4 +177,4 @@ The [Predictive Analytics for Customer Churn dataset](https://www.kaggle.com/dat
 | Churn | Whether the customer churned (Yes/No) |
 
 In this project, I applied **Numpy** and **Pandas** for **data cleaning**, **transformation**, and **feature preparation**, **implemented a logistic regression model** in **Scikit-Learn** to **predict churn risk**, and **generated data visualizations** using **Matplotlib**.
-### Access full project [here](completeProject.ipynb)
+### Access full project [here](finalProject.ipynb)
