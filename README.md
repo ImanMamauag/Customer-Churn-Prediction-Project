@@ -115,13 +115,13 @@ Key findings show that **churn is concentrated** among **new/early customers** (
 
 <img src="./dataviz/odds_ratios.png">
 
-✅ **Positive drivers of churn (increase churn risk)** 
+**Positive drivers of churn (increase churn risk)** 
 
 + ```MonthlyCharges``` (**OR ≈ 1.3**) – Customers paying **higher monthly fees** are more likely to churn. Possibly due to **price sensitivity**.
 + ```SupportTicketsPerMonth```  (**OR ≈ 1.25**) – **Frequent issues reported** = ***dissatisfaction*** → higher churn.
 + ```WatchlistSize``` & ```UserRating``` (**OR ≈ 1.05**) – Slightly increases churn, suggesting that even **engaged users may leave** if other factors (**price**, **experience**) frustrate them.
 
-❌ **Negative drivers of churn (reduce churn risk)**
+**Negative drivers of churn (reduce churn risk)**
 
 + ```AccountAge``` (**OR ≈ 0.6**) – **Longer-tenured customers** are less likely to churn (**loyalty effect**).
 + ```AverageViewingDuration```, ```ContentDownloadsPerMonth```, ```ViewingHoursPerWeek``` (**OR ≈ 0.65–0.7**) – **More engaged users** are less likely to churn. Engagement strongly protects retention.
